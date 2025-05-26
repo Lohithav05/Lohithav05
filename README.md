@@ -79,9 +79,6 @@
   <a href="https://www.linkedin.com/in/lohitha-vengatesan-805671293" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" />
   </a>
-  <a href="lohithav05@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40"alt="gmail logo"/>
-  </a>
   <!-- Add your links here as you prefer -->
   <!-- <a href="https://instagram.com/yourprofile" target="_blank">...</a> -->
   <!-- <a href="mailto:yourmail@gmail.com" target="_blank">...</a> -->
