@@ -9,7 +9,8 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://in.pinterest.com/pin/7318418137443200/" height="180" alt="Coding GIF" />
+
+![Free Minimalistic Wallpapers  September 2021](https://github.com/user-attachments/assets/4ffc7332-0433-4f62-bf0d-0a2a7df7e7d2)
 
 - 🎓 Pre-Final Year B.Tech Information Technology Student  
 - 🌐 **UI Designer for [Cyber Council](https://cybercouncil.netlify.app)** – A full-stack cybersecurity awareness and legal
