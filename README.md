@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt0bHBhYzYyNW9jcGo5bHF0czZ0cXVuZGtqdjkwbXdidjU3dWFtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2sjNMiFTQ4XtiCvgbc/giphy.gif" height="180" alt="Coding GIF" />
+<img align="right" src="https://in.pinterest.com/pin/7318418137443200/" height="180" alt="Coding GIF" />
 
 - 🎓 Pre-Final Year B.Tech Information Technology Student  
 - 🌐 **UI Designer for [Cyber Council](https://cybercouncil.netlify.app)** – A full-stack cybersecurity awareness and legal
