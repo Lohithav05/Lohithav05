@@ -10,7 +10,10 @@
 ## 🚀 About Me
 
 
-![Free Minimalistic Wallpapers  September 2021](https://github.com/user-attachments/assets/4ffc7332-0433-4f62-bf0d-0a2a7df7e7d2)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ffc7332-0433-4f62-bf0d-0a2a7df7e7d2" alt="Minimalistic Wallpaper" width="500"/>
+</p>
+
 
 - 🎓 Pre-Final Year B.Tech Information Technology Student  
 - 🌐 **UI Designer for [Cyber Council](https://cybercouncil.netlify.app)** – A full-stack cybersecurity awareness and legal
